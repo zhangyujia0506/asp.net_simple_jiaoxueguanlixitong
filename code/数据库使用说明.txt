@@ -1,0 +1,3 @@
+如果附加后的数据库名称为“Teach_Manager”，请在数据库管理工具（SSMS）中将数据库改名为“db_Student”即可连接
+zhangyj
+2017/01/08
